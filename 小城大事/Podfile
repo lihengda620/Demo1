@@ -1,0 +1,16 @@
+platform :ios, '10.0'
+target 'KBTabbarController' do
+pod 'AFNetworking', '~> 3.0'
+pod 'MBProgressHUD'           # 提示框
+#pod 'SDWebImage', ' ~> 5.0.0'             # 图片的加载及缓存
+pod 'MJRefresh'               # 下拉刷新，上拉加载更多（拓展性强）
+pod 'AMapLocation'  #定位
+pod 'AMapSearch'    #搜索
+pod 'WechatOpenSDK'
+pod 'JPush'
+pod 'BRPickerView'
+pod 'Masonry'
+pod 'AliPay'
+pod 'FLAnimatedImage'
+#pod 'SDWebImage/GIF'
+end

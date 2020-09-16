@@ -1,0 +1,80 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - AliPay (2.1.2)
+  - AMapFoundation (1.5.6)
+  - AMapLocation (2.6.2):
+    - AMapFoundation (~> 1.4)
+  - AMapSearch (6.6.0):
+    - AMapFoundation (~> 1.4)
+  - BRPickerView (2.2.1)
+  - FLAnimatedImage (1.0.12)
+  - JCore (2.0.0)
+  - JPush (3.2.0):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJRefresh (3.2.0)
+  - WechatOpenSDK (1.8.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - AliPay
+  - AMapLocation
+  - AMapSearch
+  - BRPickerView
+  - FLAnimatedImage
+  - JPush
+  - Masonry
+  - MBProgressHUD
+  - MJRefresh
+  - WechatOpenSDK
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - AliPay
+    - AMapFoundation
+    - AMapLocation
+    - AMapSearch
+    - BRPickerView
+    - JCore
+    - JPush
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - WechatOpenSDK
+  trunk:
+    - FLAnimatedImage
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  AliPay: 2bd35a4e486d2a8c035043023cd846e886bb21d1
+  AMapFoundation: 20fce2a12cd152e1092afdd04379cdac21932185
+  AMapLocation: 89a7e4eb6040d32ba73c77a4966ecc66e46aa7c3
+  AMapSearch: def5983c8ca1a6d7430970046dc814f6e337621d
+  BRPickerView: 0590a8c5de9bd98c6b4e4f117a3dff6de287d5b2
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  JCore: b962a2a1a61dc911ce5e79ba3ff21a95edaf5d23
+  JPush: 8459e7a709ad86f95884fcb49cbd57a6da24744e
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  WechatOpenSDK: 9b721089507c895d05f997408c30bb6e6f5f9b60
+
+PODFILE CHECKSUM: 9b2365e01cc74401321d02abe191d48a7c9b2633
+
+COCOAPODS: 1.9.3

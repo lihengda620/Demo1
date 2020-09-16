@@ -1,0 +1,39 @@
+//
+//  CityThings.pch
+//  KBTabbarController
+//
+//  Created by 创胜网络 on 2019/6/26.
+//  Copyright © 2019 kangbing. All rights reserved.
+//
+
+#ifndef CityThings_pch
+#define CityThings_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "GlobalConfig.h"
+#import "FlanceTools.h"
+#import "MSURLHeader.h"
+#import <MBProgressHUD.h>
+#import "MJRefresh.h"
+#import "AppTools.h"
+#import "UIButton+EnlargeEdge.h"
+#import "MZTimerLabel.h"
+#import "UIKit+AFNetworking.h"
+#import "UIImageView+AFNetworking.h"
+#import "UIButton+ImageTitleSpacing.h"
+#import <AMapFoundationKit/AMapFoundationKit.h>
+#import <AMapLocationKit/AMapLocationKit.h>
+#import <AMapSearchKit/AMapSearchKit.h>
+#import "UIImageView+WebCache.h"
+#import "GHAttributesLabel.h"
+#import "HXPhotoPicker.h"
+
+
+#import "PayViewController.h"
+#import "LoginViewController.h"
+#import "WebViewController.h"
+
+
+#endif /* CityThings_pch */
